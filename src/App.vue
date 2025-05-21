@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <Wijmo />
     </v-main>
 
     <AppFooter />
